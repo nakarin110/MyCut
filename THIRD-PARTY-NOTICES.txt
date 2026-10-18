@@ -1,0 +1,17 @@
+MyCut includes the following third-party software.
+
+Electron (https://www.electronjs.org) — MIT License.
+  Copyright (c) Electron contributors / GitHub Inc.
+
+FFmpeg and FFprobe (https://ffmpeg.org) — GNU General Public License v3 (this build includes libx264).
+  Shipped unmodified as separate programs in resources/app.asar.unpacked/node_modules/@ffmpeg-installer
+  and @ffprobe-installer (ffmpeg version N-92722-gf22fcd4483).
+  The complete source code is available at https://ffmpeg.org/download.html and
+  https://git.ffmpeg.org/ffmpeg.git (commit f22fcd4483). You may request a copy of the source
+  from the distributor of this software. FFmpeg is a trademark of Fabrice Bellard.
+
+yt-dlp (https://github.com/yt-dlp/yt-dlp) — The Unlicense (public domain).
+  Shipped unmodified in resources/app.asar.unpacked/bin/yt-dlp.exe.
+
+Fonts downloaded from Google Fonts inside the app are provided under the SIL Open Font
+License or the Apache License 2.0 as listed at https://fonts.google.com.
